@@ -1,0 +1,18 @@
+*{
+    background-color: #e9c46a;
+border: none;
+margin: auto;
+}
+h1{
+    color:#264653;
+    text-align: center;
+  font-size: 40px;
+}
+.playnow{
+ color: #010000;
+    text-align: center;
+    font-size: xx-large;
+}
+.arrow{
+    text-align: center;
+}
